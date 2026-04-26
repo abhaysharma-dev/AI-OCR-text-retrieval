@@ -6,13 +6,9 @@ Code Repository : https://github.com/abhaysharma-dev/AI-OCR-text-retrieval
 
 The objective of this project was to build an OCR-based pipeline capable of extracting structured information from semi-structured receipt images containing multiple layouts, noisy scans, varying fonts, skewed images, and real-world inconsistencies.
 
--
-
 Step 1: Image Input
 
 The provided dataset consisted of receipt images with different formats and varying image quality levels. These images were loaded from the dataset folder for batch processing.
-
--
 
 Step 2: Image Preprocessing
 
@@ -20,15 +16,11 @@ Initially, preprocessing techniques such as grayscale conversion, thresholding, 
 
 Therefore, I decided to continure without preprocessing.
 
--
-
 Step 3: Text Detection and Recognition
 
 EasyOCR was used for text detection and recognition.
 
 The OCR engine extracted text tokens from each receipt image and generated raw textual outputs which were further processed for structured extraction.
-
--
 
 Step 4: Key Information Extraction
 
@@ -46,8 +38,6 @@ Store names extracted from top receipt text
 Date extracted using regex patterns
 Item prices extracted by identifying decimal values
 Total amount extracted using keywords such as TOTAL, SUBTOTAL, etc.
-
-- 
 
 Step 5: JSON Structuring
 
@@ -71,7 +61,7 @@ Example:
   "total_amount": 18.75
 }
 
--
+--
 
 2. Expense Summary Output
 
@@ -83,7 +73,7 @@ Total Transactions Processed: 117
 
 The summary was calculated by aggregating all valid total_amount values from the generated receipt JSON outputs.
 
--
+--
 
 3. Tools Used
 Python
@@ -93,8 +83,7 @@ Regular Expressions (Regex)
 JSON
 Pandas
 
--
-
+--
 4. Challenges Faced
 
 i. OCR Token Fragmentation
@@ -131,7 +120,7 @@ iv. Different Receipt Layouts
 
 Receipts followed different structures which made rule-based extraction challenging.
 
--
+-- 
 
 5. Improvements / Future Work
 Implement confidence scoring using OCR confidence values
