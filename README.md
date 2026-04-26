@@ -2,6 +2,8 @@ AI OCR Receipt Information Extraction System
 
 Code Repository : https://github.com/abhaysharma-dev/AI-OCR-text-retrieval
 
+---
+
 1. Approach
 
 The objective of this project was to build an OCR-based pipeline capable of extracting structured information from semi-structured receipt images containing multiple layouts, noisy scans, varying fonts, skewed images, and real-world inconsistencies.
@@ -26,11 +28,11 @@ Step 4: Key Information Extraction
 
 Rule-based heuristics and regular expressions were used to extract:
 
-Store Name
-Transaction Date
-Purchased Items
-Item Prices
-Total Amount
+- Store Name
+- Transaction Date
+- Purchased Items
+- Item Prices
+- Total Amount
 
 Since OCR outputs were inconsistent across receipts, multiple heuristics were implemented:
 
@@ -44,7 +46,7 @@ Step 5: JSON Structuring
 For each receipt, extracted information was stored in structured JSON format.
 
 Example:
-
+```text
 {
   "store_name": "WALMART",
   "date": "10/20/07",
@@ -60,8 +62,8 @@ Example:
   ],
   "total_amount": 18.75
 }
-
---
+```
+---
 
 2. Expense Summary Output
 
@@ -73,7 +75,7 @@ Total Transactions Processed: 117
 
 The summary was calculated by aggregating all valid total_amount values from the generated receipt JSON outputs.
 
---
+---
 
 3. Tools Used
 Python
@@ -83,7 +85,8 @@ Regular Expressions (Regex)
 JSON
 Pandas
 
---
+---
+
 4. Challenges Faced
 
 i. OCR Token Fragmentation
@@ -94,9 +97,7 @@ Example:
 
 BANANAS
 0.20
-
 or
-
 TOOTHBRUSH 003500055500 0.96
 
 This required multiple extraction heuristics.
@@ -105,10 +106,10 @@ ii. Noisy OCR Outputs
 
 Some receipts contained:
 
-Blurry text
-Skewed scans
-Poor lighting
-Background noise
+- Blurry text
+- Skewed scans
+- Poor lighting
+- Background noise
 
 These issues reduced OCR accuracy.
 
@@ -120,11 +121,11 @@ iv. Different Receipt Layouts
 
 Receipts followed different structures which made rule-based extraction challenging.
 
--- 
+---
 
 5. Improvements / Future Work
-Implement confidence scoring using OCR confidence values
-Fine-tune OCR models for receipt-specific extraction
-Use LayoutLM / Named Entity Recognition models for better structured extraction
-Improve handling of highly noisy receipts
-Build scalable batch processing pipeline for large datasets
+- Implement confidence scoring using OCR confidence values
+- Fine-tune OCR models for receipt-specific extraction
+- Use LayoutLM / Named Entity Recognition models for better structured extraction
+- Improve handling of highly noisy receipts
+- Build scalable batch processing pipeline for large datasets
