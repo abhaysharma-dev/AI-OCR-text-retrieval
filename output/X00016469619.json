@@ -1,0 +1,15 @@
+{
+    "store_name": "tan woon yann",
+    "date": "19/10/2018",
+    "items": [
+        {
+            "name": "RH",
+            "price": "60.31"
+        },
+        {
+            "name": "RH",
+            "price": "70.30"
+        }
+    ],
+    "total_amount": null
+}

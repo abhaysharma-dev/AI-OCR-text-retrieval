@@ -1,0 +1,15 @@
+{
+    "store_name": "RESTAURANT",
+    "date": "09/03/2018",
+    "items": [
+        {
+            "name": "DPT.04",
+            "price": "21.00"
+        },
+        {
+            "name": "RH",
+            "price": "21.00"
+        }
+    ],
+    "total_amount": null
+}

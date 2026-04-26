@@ -1,0 +1,27 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "24/01/2018",
+    "items": [
+        {
+            "name": "Tolal Qty:",
+            "price": "74.20"
+        },
+        {
+            "name": "Tolal Sales (Excluding GST)",
+            "price": "70.00"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "70.00"
+        }
+    ],
+    "total_amount": 70.0
+}

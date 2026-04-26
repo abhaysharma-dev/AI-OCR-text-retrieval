@@ -1,0 +1,23 @@
+{
+    "store_name": "002062543-P",
+    "date": "21/03/2018",
+    "items": [
+        {
+            "name": "NE3555",
+            "price": "1.00"
+        },
+        {
+            "name": "SBI01-3",
+            "price": "7.00"
+        },
+        {
+            "name": "DISC",
+            "price": "0.00"
+        },
+        {
+            "name": "ROUNDING",
+            "price": "0.00"
+        }
+    ],
+    "total_amount": 9.0
+}

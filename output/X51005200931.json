@@ -1,0 +1,43 @@
+{
+    "store_name": "hoxp3}",
+    "date": "09/02/2018",
+    "items": [
+        {
+            "name": "Ga",
+            "price": "65.00"
+        },
+        {
+            "name": "Ga",
+            "price": "33.00"
+        },
+        {
+            "name": "GA",
+            "price": "43.00"
+        },
+        {
+            "name": "Gg",
+            "price": "10.00"
+        },
+        {
+            "name": "{Excluded GST",
+            "price": "411.50"
+        },
+        {
+            "name": "Discourt {RM}",
+            "price": "24.69"
+        },
+        {
+            "name": "Rounding (RM)",
+            "price": "0.01"
+        },
+        {
+            "name": "GST",
+            "price": "411.50"
+        },
+        {
+            "name": "SR",
+            "price": "411.50"
+        }
+    ],
+    "total_amount": null
+}

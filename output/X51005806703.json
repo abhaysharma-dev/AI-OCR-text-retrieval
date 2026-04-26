@@ -1,0 +1,47 @@
+{
+    "store_name": "Cash S&ie",
+    "date": "04-18/08",
+    "items": [
+        {
+            "name": "3 UNIT",
+            "price": "4.80"
+        },
+        {
+            "name": "@OO",
+            "price": "14.40"
+        },
+        {
+            "name": "SR",
+            "price": "2.80"
+        },
+        {
+            "name": "PLASTI:\" BOWL",
+            "price": "2.80"
+        },
+        {
+            "name": "INIT",
+            "price": "2.80"
+        },
+        {
+            "name": "6 UNIT",
+            "price": "0.00"
+        },
+        {
+            "name": "UNIT",
+            "price": "10.00"
+        },
+        {
+            "name": "11 UNIT",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding Adjustment",
+            "price": "0.00"
+        },
+        {
+            "name": "SR @ 6 %",
+            "price": "6.21"
+        }
+    ],
+    "total_amount": null
+}

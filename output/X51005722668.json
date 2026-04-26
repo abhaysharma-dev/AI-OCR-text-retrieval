@@ -1,0 +1,11 @@
+{
+    "store_name": "MY HAPPY PHARMACY PLT",
+    "date": "01/02/2018",
+    "items": [
+        {
+            "name": "21 Cu",
+            "price": "0.50"
+        }
+    ],
+    "total_amount": 19.34
+}

@@ -1,0 +1,19 @@
+{
+    "store_name": "No 7",
+    "date": "03/02/2018",
+    "items": [
+        {
+            "name": "10.00 NOS",
+            "price": "0.70"
+        },
+        {
+            "name": "X",
+            "price": "0.70"
+        },
+        {
+            "name": "SR",
+            "price": "7.00"
+        }
+    ],
+    "total_amount": 7.0
+}

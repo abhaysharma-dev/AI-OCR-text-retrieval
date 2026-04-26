@@ -1,0 +1,27 @@
+{
+    "store_name": "POPULAR",
+    "date": "20/08/17",
+    "items": [
+        {
+            "name": "Man   GLASS   PAPER",
+            "price": "1.40"
+        },
+        {
+            "name": "4pc",
+            "price": "1.40"
+        },
+        {
+            "name": "Inc",
+            "price": "5.04"
+        },
+        {
+            "name": "of GST",
+            "price": "5.04"
+        },
+        {
+            "name": "Rounding Adj",
+            "price": "0.01"
+        }
+    ],
+    "total_amount": null
+}

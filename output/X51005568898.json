@@ -1,0 +1,43 @@
+{
+    "store_name": "TEL: 03-91334364",
+    "date": "30/05/2017",
+    "items": [
+        {
+            "name": "1.00 PKT",
+            "price": "0.75"
+        },
+        {
+            "name": "1.00 PKT",
+            "price": "8.00"
+        },
+        {
+            "name": "8,000o",
+            "price": "8.00"
+        },
+        {
+            "name": "2.00 ROLL",
+            "price": "3.00"
+        },
+        {
+            "name": "Item Count:",
+            "price": "5.00"
+        },
+        {
+            "name": "Item Qty:",
+            "price": "5.00"
+        },
+        {
+            "name": "GST 6%",
+            "price": "1.07"
+        },
+        {
+            "name": "SR",
+            "price": "17.75"
+        },
+        {
+            "name": "%j0",
+            "price": "17.75"
+        }
+    ],
+    "total_amount": null
+}

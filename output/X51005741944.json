@@ -1,0 +1,19 @@
+{
+    "store_name": "TAX",
+    "date": "18-01-2018",
+    "items": [
+        {
+            "name": "EDC  MASTER",
+            "price": "41.95"
+        },
+        {
+            "name": "RM",
+            "price": "41.95"
+        },
+        {
+            "name": "S: Standard 6%",
+            "price": "2.37"
+        }
+    ],
+    "total_amount": null
+}

@@ -1,0 +1,23 @@
+{
+    "store_name": "(653_1-M)",
+    "date": "02/03/2018",
+    "items": [
+        {
+            "name": "McChicken",
+            "price": "11.10"
+        },
+        {
+            "name": "Fries",
+            "price": "7.50"
+        },
+        {
+            "name": "6Muggets",
+            "price": "7.50"
+        },
+        {
+            "name": "(inc] GST )",
+            "price": "28.50"
+        }
+    ],
+    "total_amount": null
+}

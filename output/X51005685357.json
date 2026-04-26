@@ -1,0 +1,23 @@
+{
+    "store_name": "hr",
+    "date": "02/03/18",
+    "items": [
+        {
+            "name": "XXBMS MILK THISTLE",
+            "price": "111.30"
+        },
+        {
+            "name": "X",
+            "price": "111.30"
+        },
+        {
+            "name": "TRILON-E CRM",
+            "price": "7.00"
+        },
+        {
+            "name": "1 X 7.00",
+            "price": "7.00"
+        }
+    ],
+    "total_amount": 61558.0
+}

@@ -1,0 +1,15 @@
+{
+    "store_name": "ADVANCO COMPANY",
+    "date": "17/01/2018",
+    "items": [
+        {
+            "name": "Roundirg Adj",
+            "price": "29.00"
+        },
+        {
+            "name": "SR'",
+            "price": "27.36"
+        }
+    ],
+    "total_amount": 27.36
+}

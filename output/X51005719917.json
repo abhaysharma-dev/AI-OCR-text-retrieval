@@ -1,0 +1,23 @@
+{
+    "store_name": "TAX INVOICE",
+    "date": "26/03/18",
+    "items": [
+        {
+            "name": "Coupon",
+            "price": "27.60"
+        },
+        {
+            "name": "Discount",
+            "price": "27.60"
+        },
+        {
+            "name": "Due",
+            "price": "17.00"
+        },
+        {
+            "name": "GST Included",
+            "price": "1.87"
+        }
+    ],
+    "total_amount": null
+}

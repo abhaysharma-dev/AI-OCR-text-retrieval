@@ -1,0 +1,27 @@
+{
+    "store_name": "Your order number is",
+    "date": "21/01/2018",
+    "items": [
+        {
+            "name": "SF",
+            "price": "1.10"
+        },
+        {
+            "name": "Pearl",
+            "price": "1.10"
+        },
+        {
+            "name": "RM8.60",
+            "price": "8.60"
+        },
+        {
+            "name": "Amount",
+            "price": "8.12"
+        },
+        {
+            "name": "SR @ 6%",
+            "price": "8.12"
+        }
+    ],
+    "total_amount": null
+}

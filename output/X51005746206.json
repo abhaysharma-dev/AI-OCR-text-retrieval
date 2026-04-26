@@ -1,0 +1,27 @@
+{
+    "store_name": "PANA",
+    "date": "21-03-2018",
+    "items": [
+        {
+            "name": "X",
+            "price": "35.00"
+        },
+        {
+            "name": "(Excluding",
+            "price": "99.06"
+        },
+        {
+            "name": "GST )",
+            "price": "99.06"
+        },
+        {
+            "name": "GST payab |0",
+            "price": "5.94"
+        },
+        {
+            "name": "SA",
+            "price": "99.06"
+        }
+    ],
+    "total_amount": null
+}

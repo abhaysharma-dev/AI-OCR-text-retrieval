@@ -1,0 +1,23 @@
+{
+    "store_name": "ADVANCO COMEANY",
+    "date": null,
+    "items": [
+        {
+            "name": "SR",
+            "price": "5.80"
+        },
+        {
+            "name": "Type:",
+            "price": "11.60"
+        },
+        {
+            "name": "z0.00",
+            "price": "9.55"
+        },
+        {
+            "name": "SR",
+            "price": "9.85"
+        }
+    ],
+    "total_amount": 11.6
+}

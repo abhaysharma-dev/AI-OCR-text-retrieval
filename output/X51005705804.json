@@ -1,0 +1,39 @@
+{
+    "store_name": "ELECTRICAL TRADING SDN BHD",
+    "date": null,
+    "items": [
+        {
+            "name": "Amount",
+            "price": "44.40"
+        },
+        {
+            "name": "Itemi",
+            "price": "44.40"
+        },
+        {
+            "name": "SR: FUJI",
+            "price": "51.94"
+        },
+        {
+            "name": "CONTACTOR;",
+            "price": "51.94"
+        },
+        {
+            "name": "TOT",
+            "price": "93.40"
+        },
+        {
+            "name": "Discount",
+            "price": "5.60"
+        },
+        {
+            "name": "Rounding",
+            "price": "99.00"
+        },
+        {
+            "name": "SR",
+            "price": "93.40"
+        }
+    ],
+    "total_amount": 99.0
+}

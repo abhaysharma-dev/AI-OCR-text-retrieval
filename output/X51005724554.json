@@ -1,0 +1,19 @@
+{
+    "store_name": "R",
+    "date": "28/02/2018",
+    "items": [
+        {
+            "name": "BESI Y 12 (CQ)",
+            "price": "101.76"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "96.00"
+        }
+    ],
+    "total_amount": 96.0
+}

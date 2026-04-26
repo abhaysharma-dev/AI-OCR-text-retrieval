@@ -1,0 +1,19 @@
+{
+    "store_name": "R",
+    "date": "12/03/2018",
+    "items": [
+        {
+            "name": "PASIR KASAR (D)",
+            "price": "65.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "267.50"
+        }
+    ],
+    "total_amount": 267.5
+}

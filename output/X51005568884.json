@@ -1,0 +1,15 @@
+{
+    "store_name": "MR",
+    "date": "24-11-17",
+    "items": [
+        {
+            "name": "RM",
+            "price": "0.10"
+        },
+        {
+            "name": "GST Sq6x",
+            "price": "0.22"
+        }
+    ],
+    "total_amount": null
+}

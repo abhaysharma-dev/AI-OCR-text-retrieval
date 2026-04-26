@@ -1,0 +1,23 @@
+{
+    "store_name": "PASARAYA BORONG PINTAR",
+    "date": "09/03/2018",
+    "items": [
+        {
+            "name": "WALK",
+            "price": "1.90"
+        },
+        {
+            "name": "WALK",
+            "price": "2.70"
+        },
+        {
+            "name": "WALK",
+            "price": "4.60"
+        },
+        {
+            "name": "ZRL = 0 %",
+            "price": "0.00"
+        }
+    ],
+    "total_amount": null
+}

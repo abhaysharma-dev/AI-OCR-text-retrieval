@@ -1,0 +1,23 @@
+{
+    "store_name": "PrIMiO",
+    "date": "20/03/2018",
+    "items": [
+        {
+            "name": "SR",
+            "price": "75.40"
+        },
+        {
+            "name": "ENERGIZER",
+            "price": "75.40"
+        },
+        {
+            "name": "Discount;",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "12.64"
+        }
+    ],
+    "total_amount": null
+}

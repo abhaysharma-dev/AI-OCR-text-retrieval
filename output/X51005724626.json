@@ -1,0 +1,19 @@
+{
+    "store_name": "R",
+    "date": null,
+    "items": [
+        {
+            "name": "NO 1 JALAN AMAN 2",
+            "price": "445.20"
+        },
+        {
+            "name": "KAPUR AIR (A1)",
+            "price": "2.00"
+        },
+        {
+            "name": "SR",
+            "price": "255.00"
+        }
+    ],
+    "total_amount": 255.0
+}

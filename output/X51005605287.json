@@ -1,0 +1,27 @@
+{
+    "store_name": "AEON Co_",
+    "date": "14/03/2018",
+    "items": [
+        {
+            "name": "CIF REGULAR 50",
+            "price": "12.25"
+        },
+        {
+            "name": "Sub-tota]",
+            "price": "12.25"
+        },
+        {
+            "name": "Toial After Adj",
+            "price": "12.25"
+        },
+        {
+            "name": "Irc]   GST",
+            "price": "12.25"
+        },
+        {
+            "name": "SR 4 6%",
+            "price": "0.70"
+        }
+    ],
+    "total_amount": 11.55
+}

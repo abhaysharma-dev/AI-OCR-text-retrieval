@@ -1,0 +1,35 @@
+{
+    "store_name": "PappaRi ch",
+    "date": null,
+    "items": [
+        {
+            "name": "S",
+            "price": "9.34"
+        },
+        {
+            "name": "N2Z  SPRG NDL+sutcr E",
+            "price": "9.34"
+        },
+        {
+            "name": "10% Srv Chg",
+            "price": "6.25"
+        },
+        {
+            "name": "RND   ADJ",
+            "price": "0.02"
+        },
+        {
+            "name": "TTL ATF RND",
+            "price": "72.95"
+        },
+        {
+            "name": "S-GST @6% :",
+            "price": "4.13"
+        },
+        {
+            "name": "Z-GST @0% :",
+            "price": "0.00"
+        }
+    ],
+    "total_amount": 62.55
+}

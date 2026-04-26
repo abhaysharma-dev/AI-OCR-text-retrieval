@@ -1,0 +1,19 @@
+{
+    "store_name": "Dollar TnEe Stores, Inc.",
+    "date": "22/20/14",
+    "items": [
+        {
+            "name": "SALES Tah",
+            "price": "80.21"
+        },
+        {
+            "name": "Tree",
+            "price": "61.00"
+        },
+        {
+            "name": "Whare Evervthing",
+            "price": "61.00"
+        }
+    ],
+    "total_amount": null
+}

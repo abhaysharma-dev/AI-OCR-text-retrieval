@@ -1,0 +1,31 @@
+{
+    "store_name": "SUSHI  MENTAI",
+    "date": "09-04-2018",
+    "items": [
+        {
+            "name": "Tori Teriyaki Don",
+            "price": "12.80"
+        },
+        {
+            "name": "1 X",
+            "price": "12.80"
+        },
+        {
+            "name": "Sushi 1,80",
+            "price": "1.80"
+        },
+        {
+            "name": "4 X",
+            "price": "1.80"
+        },
+        {
+            "name": "Sushi \"2,80",
+            "price": "2.80"
+        },
+        {
+            "name": "2 X",
+            "price": "2.80"
+        }
+    ],
+    "total_amount": null
+}

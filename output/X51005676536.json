@@ -1,0 +1,27 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "02/01/2018",
+    "items": [
+        {
+            "name": "8' 2 X 3",
+            "price": "18.55"
+        },
+        {
+            "name": "7'Y 35# CORRUGATED ROOFING SHEET",
+            "price": "5.30"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "87.80"
+        }
+    ],
+    "total_amount": 87.8
+}

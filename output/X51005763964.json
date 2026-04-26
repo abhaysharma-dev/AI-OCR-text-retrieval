@@ -1,0 +1,15 @@
+{
+    "store_name": "hh",
+    "date": "06/01/2018",
+    "items": [
+        {
+            "name": "DISC",
+            "price": "0.00"
+        },
+        {
+            "name": "GST",
+            "price": "3.72"
+        }
+    ],
+    "total_amount": 65.7
+}

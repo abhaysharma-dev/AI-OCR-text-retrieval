@@ -1,0 +1,27 @@
+{
+    "store_name": "SAM",
+    "date": "29-12-2017",
+    "items": [
+        {
+            "name": "1 X",
+            "price": "5.20"
+        },
+        {
+            "name": "2357q08",
+            "price": "8.90"
+        },
+        {
+            "name": "1 X",
+            "price": "8.90"
+        },
+        {
+            "name": "Frid-v, 29-12-2017",
+            "price": "20.17"
+        },
+        {
+            "name": "Tine",
+            "price": "20.17"
+        }
+    ],
+    "total_amount": null
+}

@@ -1,0 +1,19 @@
+{
+    "store_name": "Zen",
+    "date": null,
+    "items": [
+        {
+            "name": "Jasmine Green Tea",
+            "price": "10.00"
+        },
+        {
+            "name": "Tea",
+            "price": "105.00"
+        },
+        {
+            "name": "S @68",
+            "price": "99.05"
+        }
+    ],
+    "total_amount": 105.0
+}

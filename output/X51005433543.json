@@ -1,0 +1,35 @@
+{
+    "store_name": "Aozasz",
+    "date": null,
+    "items": [
+        {
+            "name": "Meat",
+            "price": "57.10"
+        },
+        {
+            "name": "3 Vege",
+            "price": "57.10"
+        },
+        {
+            "name": "S7.10",
+            "price": "51.10"
+        },
+        {
+            "name": "SR I001DDOOOO15- Vegetable",
+            "price": "51.10"
+        },
+        {
+            "name": "GST @696; 90.46",
+            "price": "58.20"
+        },
+        {
+            "name": "Neit Totab",
+            "price": "58.20"
+        },
+        {
+            "name": "Amourt",
+            "price": "58.20"
+        }
+    ],
+    "total_amount": null
+}

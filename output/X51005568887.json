@@ -1,0 +1,31 @@
+{
+    "store_name": "KON KWA KARDWARE TRADING",
+    "date": null,
+    "items": [
+        {
+            "name": "ALUMINIUM ROD",
+            "price": "6.00"
+        },
+        {
+            "name": "Iem Decount",
+            "price": "1.2"
+        },
+        {
+            "name": "QWQ",
+            "price": "1.2"
+        },
+        {
+            "name": "Type",
+            "price": "7.20"
+        },
+        {
+            "name": "0 O0",
+            "price": "7.20"
+        },
+        {
+            "name": "Tolal Inclusive GST:",
+            "price": "7.20"
+        }
+    ],
+    "total_amount": 7.2
+}

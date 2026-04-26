@@ -1,0 +1,35 @@
+{
+    "store_name": "See back",
+    "date": "11/13/17",
+    "items": [
+        {
+            "name": "ST# 01534 OP# 009048 TE# 48 TR# 04455",
+            "price": "3.98"
+        },
+        {
+            "name": "6 WING PLATE 020108870398",
+            "price": "3.98"
+        },
+        {
+            "name": "ASST 27",
+            "price": "4.88"
+        },
+        {
+            "name": "CUTIE CAR",
+            "price": "12.88"
+        },
+        {
+            "name": "DEBIT",
+            "price": "23.19"
+        },
+        {
+            "name": "EFT DEBIT",
+            "price": "23.19"
+        },
+        {
+            "name": "PAY FROM PRIMARY",
+            "price": "23.19"
+        }
+    ],
+    "total_amount": 23.19
+}

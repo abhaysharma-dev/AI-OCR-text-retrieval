@@ -1,0 +1,31 @@
+{
+    "store_name": "tan chay yee",
+    "date": "11/01/2019",
+    "items": [
+        {
+            "name": "workmanship & service",
+            "price": "160.00"
+        },
+        {
+            "name": "1/ JU",
+            "price": "17.00"
+        },
+        {
+            "name": "STARTER TALI",
+            "price": "10.00"
+        },
+        {
+            "name": "Tolal Sales",
+            "price": "327.00"
+        },
+        {
+            "name": "Discount",
+            "price": "327.00"
+        },
+        {
+            "name": "0o",
+            "price": "327.00"
+        }
+    ],
+    "total_amount": null
+}

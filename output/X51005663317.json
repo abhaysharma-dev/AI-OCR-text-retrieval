@@ -1,0 +1,15 @@
+{
+    "store_name": "Jalan Ipoh Batu 5",
+    "date": "29/12/2017",
+    "items": [
+        {
+            "name": "SIMEN  3)",
+            "price": "2.00"
+        },
+        {
+            "name": "SR",
+            "price": "5.66"
+        }
+    ],
+    "total_amount": 6.0
+}

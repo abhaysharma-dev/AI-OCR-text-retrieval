@@ -1,0 +1,15 @@
+{
+    "store_name": "Fr",
+    "date": "04/12/2017",
+    "items": [
+        {
+            "name": "(Ri)",
+            "price": "3.50"
+        },
+        {
+            "name": "SR",
+            "price": "6.60"
+        }
+    ],
+    "total_amount": null
+}

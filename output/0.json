@@ -1,0 +1,23 @@
+{
+    "store_name": "WALAMART",
+    "date": null,
+    "items": [
+        {
+            "name": "BANANAS",
+            "price": "0.41"
+        },
+        {
+            "name": "OOOOOOOO4011KF",
+            "price": "0.41"
+        },
+        {
+            "name": "1 Ib /0.49",
+            "price": "0.20"
+        },
+        {
+            "name": "FRAP",
+            "price": "5.48"
+        }
+    ],
+    "total_amount": null
+}

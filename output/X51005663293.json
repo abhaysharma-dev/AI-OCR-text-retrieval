@@ -1,0 +1,31 @@
+{
+    "store_name": "SWEET   FOREST   CAFE",
+    "date": "14-02-2018",
+    "items": [
+        {
+            "name": "X",
+            "price": "12.50"
+        },
+        {
+            "name": "Hot Green Tea",
+            "price": "3.00"
+        },
+        {
+            "name": "1 X",
+            "price": "3.00"
+        },
+        {
+            "name": "Coffee(H)",
+            "price": "4.90"
+        },
+        {
+            "name": "1 X",
+            "price": "4.90"
+        },
+        {
+            "name": "GST payahle (68):",
+            "price": "1.72"
+        }
+    ],
+    "total_amount": null
+}

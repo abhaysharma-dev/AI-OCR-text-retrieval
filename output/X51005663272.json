@@ -1,0 +1,27 @@
+{
+    "store_name": "HAHIN HARDWARE  SDN BHD",
+    "date": "04/12/17",
+    "items": [
+        {
+            "name": "30.74 SR",
+            "price": "40.00"
+        },
+        {
+            "name": "Gross Amount",
+            "price": "40.00"
+        },
+        {
+            "name": "Amt",
+            "price": "2.40"
+        },
+        {
+            "name": "0,Q",
+            "price": "42.40"
+        },
+        {
+            "name": "Amount Paid",
+            "price": "42.40"
+        }
+    ],
+    "total_amount": null
+}

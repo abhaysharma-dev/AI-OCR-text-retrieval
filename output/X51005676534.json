@@ -1,0 +1,23 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "03/01/2018",
+    "items": [
+        {
+            "name": "104 COTTON GLOVE (DOZEN)",
+            "price": "23.32"
+        },
+        {
+            "name": "CS 200A CUTTING WHEEL",
+            "price": "72.08"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "68.00"
+        }
+    ],
+    "total_amount": 68.0
+}

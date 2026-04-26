@@ -1,0 +1,19 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "04/01/2018",
+    "items": [
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "42.20"
+        }
+    ],
+    "total_amount": 42.2
+}

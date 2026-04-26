@@ -1,0 +1,35 @@
+{
+    "store_name": "RESTAURANT SDN BHD",
+    "date": "06/01/18",
+    "items": [
+        {
+            "name": "Amount",
+            "price": "15.90"
+        },
+        {
+            "name": "(S)",
+            "price": "15.90"
+        },
+        {
+            "name": "GST (6%)",
+            "price": "2.86"
+        },
+        {
+            "name": "Net Amt",
+            "price": "53.55"
+        },
+        {
+            "name": "AmRM)",
+            "price": "2.87"
+        },
+        {
+            "name": "'Ta (RM)",
+            "price": "2.87"
+        },
+        {
+            "name": "SR (( 6\" 0",
+            "price": "17.80"
+        }
+    ],
+    "total_amount": null
+}

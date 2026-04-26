@@ -1,0 +1,19 @@
+{
+    "store_name": "MYDIN",
+    "date": null,
+    "items": [
+        {
+            "name": "Rgurd",
+            "price": "0.00"
+        },
+        {
+            "name": "Adljustmenl",
+            "price": "0.00"
+        },
+        {
+            "name": "S",
+            "price": "80.27"
+        }
+    ],
+    "total_amount": null
+}

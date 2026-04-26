@@ -1,0 +1,35 @@
+{
+    "store_name": "MR _",
+    "date": "12-21-22",
+    "items": [
+        {
+            "name": "1 X",
+            "price": "1.90"
+        },
+        {
+            "name": "1.9u",
+            "price": "1.90"
+        },
+        {
+            "name": "1 X",
+            "price": "1.90"
+        },
+        {
+            "name": "1 X 11.90",
+            "price": "11.90"
+        },
+        {
+            "name": "9u80456",
+            "price": "1.70"
+        },
+        {
+            "name": "1 X",
+            "price": "1.70"
+        },
+        {
+            "name": "RM",
+            "price": "1.22"
+        }
+    ],
+    "total_amount": null
+}

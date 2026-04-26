@@ -1,0 +1,35 @@
+{
+    "store_name": "Ab3o64",
+    "date": "11/03/2818",
+    "items": [
+        {
+            "name": "Green Tea",
+            "price": "12.80"
+        },
+        {
+            "name": "FG-YO0O30",
+            "price": "12.80"
+        },
+        {
+            "name": "FG-YO8183",
+            "price": "31.60"
+        },
+        {
+            "name": "15,B0",
+            "price": "31.60"
+        },
+        {
+            "name": "FG-VQC102",
+            "price": "3.80"
+        },
+        {
+            "name": "FG-Y002644",
+            "price": "0.00"
+        },
+        {
+            "name": "Tota",
+            "price": "49.70"
+        }
+    ],
+    "total_amount": null
+}

@@ -1,0 +1,27 @@
+{
+    "store_name": "PASARAYA BORONG PINTAR",
+    "date": "14/03/2018",
+    "items": [
+        {
+            "name": "WALK",
+            "price": "1.60"
+        },
+        {
+            "name": "22g",
+            "price": "0.50"
+        },
+        {
+            "name": "WALK",
+            "price": "0.50"
+        },
+        {
+            "name": "Customers Pavment",
+            "price": "20.20"
+        },
+        {
+            "name": "ZRL = 0 %",
+            "price": "8.20"
+        }
+    ],
+    "total_amount": null
+}

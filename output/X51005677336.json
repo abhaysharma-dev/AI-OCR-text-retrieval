@@ -1,0 +1,23 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "27/01/2018",
+    "items": [
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "Tviul^ '05 (Inclusive of GST)",
+            "price": "22.26"
+        },
+        {
+            "name": "SR",
+            "price": "21.00"
+        }
+    ],
+    "total_amount": 21.0
+}

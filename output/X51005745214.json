@@ -1,0 +1,23 @@
+{
+    "store_name": "Lot P.T.",
+    "date": "07-02-18",
+    "items": [
+        {
+            "name": "Tota] Sales",
+            "price": "45.34"
+        },
+        {
+            "name": "(Inclusive GST) RM",
+            "price": "45.34"
+        },
+        {
+            "name": "Rounding rm",
+            "price": "45.35"
+        },
+        {
+            "name": "CREDIT RM",
+            "price": "45.35"
+        }
+    ],
+    "total_amount": null
+}

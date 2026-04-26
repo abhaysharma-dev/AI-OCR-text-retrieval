@@ -1,0 +1,15 @@
+{
+    "store_name": "Lot P.Te",
+    "date": "03-02-18",
+    "items": [
+        {
+            "name": "RNZ. 20",
+            "price": "3.70"
+        },
+        {
+            "name": "CaSK RM",
+            "price": "10.00"
+        }
+    ],
+    "total_amount": null
+}

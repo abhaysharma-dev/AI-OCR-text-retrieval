@@ -1,0 +1,31 @@
+{
+    "store_name": "Hos!3s\"",
+    "date": "18/03/18",
+    "items": [
+        {
+            "name": "VECETABLES",
+            "price": "2.20"
+        },
+        {
+            "name": "LTK OMEGA",
+            "price": "5.70"
+        },
+        {
+            "name": "PLUS |0S",
+            "price": "5.70"
+        },
+        {
+            "name": "Iten Count",
+            "price": "28.80"
+        },
+        {
+            "name": "TL:RM",
+            "price": "28.80"
+        },
+        {
+            "name": "100,0o",
+            "price": "71.40"
+        }
+    ],
+    "total_amount": null
+}

@@ -1,0 +1,31 @@
+{
+    "store_name": "SAINT HEART PASTRY",
+    "date": "25/03/2018",
+    "items": [
+        {
+            "name": "JUMBO SAUSAGE CHEESE",
+            "price": "3.10"
+        },
+        {
+            "name": "SR",
+            "price": "2.00"
+        },
+        {
+            "name": "GARLIC CHEESE",
+            "price": "2.00"
+        },
+        {
+            "name": "Service Charge",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "7.74"
+        }
+    ],
+    "total_amount": null
+}

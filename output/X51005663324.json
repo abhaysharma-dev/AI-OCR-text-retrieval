@@ -1,0 +1,31 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "28/12/2017",
+    "items": [
+        {
+            "name": "RM2",
+            "price": "7.95"
+        },
+        {
+            "name": "CEMENT BRICK",
+            "price": "15.90"
+        },
+        {
+            "name": "6' X 35# CORRUGATED ROOFING SHEET",
+            "price": "18.02"
+        },
+        {
+            "name": "CEMENT (S0KG)",
+            "price": "16.96"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "439.00"
+        }
+    ],
+    "total_amount": 439.0
+}

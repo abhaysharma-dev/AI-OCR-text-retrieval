@@ -1,0 +1,27 @@
+{
+    "store_name": "Segi Cash",
+    "date": null,
+    "items": [
+        {
+            "name": "3.15 X",
+            "price": "125.69"
+        },
+        {
+            "name": "IkAN BILIS C TIMBANG",
+            "price": "1.36"
+        },
+        {
+            "name": "Incl. GST:Rn",
+            "price": "673.99"
+        },
+        {
+            "name": "Savings:RH",
+            "price": "1.60"
+        },
+        {
+            "name": "S",
+            "price": "234.63"
+        }
+    ],
+    "total_amount": null
+}

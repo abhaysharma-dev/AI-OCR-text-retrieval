@@ -1,0 +1,19 @@
+{
+    "store_name": "(65351-M)",
+    "date": "18/03/2018",
+    "items": [
+        {
+            "name": "McChicken",
+            "price": "11.10"
+        },
+        {
+            "name": "(inc] GST )",
+            "price": "13.10"
+        },
+        {
+            "name": "Tota/ Rounded",
+            "price": "13.10"
+        }
+    ],
+    "total_amount": null
+}

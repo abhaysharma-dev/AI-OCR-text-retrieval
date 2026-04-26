@@ -1,0 +1,15 @@
+{
+    "store_name": "MYDIN",
+    "date": "10/08/2017",
+    "items": [
+        {
+            "name": "Fotal",
+            "price": "21.40"
+        },
+        {
+            "name": "'a9ted Katnding",
+            "price": "21.40"
+        }
+    ],
+    "total_amount": null
+}

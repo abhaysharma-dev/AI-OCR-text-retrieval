@@ -1,0 +1,19 @@
+{
+    "store_name": "R",
+    "date": "21/03/2018",
+    "items": [
+        {
+            "name": "Amount",
+            "price": "65.00"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "65.00"
+        }
+    ],
+    "total_amount": null
+}

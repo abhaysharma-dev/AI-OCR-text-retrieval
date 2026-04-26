@@ -1,0 +1,19 @@
+{
+    "store_name": "Give us feedback",
+    "date": "10/18/20",
+    "items": [
+        {
+            "name": "DEXAS 15X20",
+            "price": "12.97"
+        },
+        {
+            "name": "EFT DEBIT",
+            "price": "49.90"
+        },
+        {
+            "name": "PAY FROM PRIMARY",
+            "price": "49.90"
+        }
+    ],
+    "total_amount": 46.0
+}

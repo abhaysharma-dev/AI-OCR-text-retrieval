@@ -1,0 +1,31 @@
+{
+    "store_name": "Chili",
+    "date": null,
+    "items": [
+        {
+            "name": "Tostada CHIPS",
+            "price": "16.95"
+        },
+        {
+            "name": "Srv Chg",
+            "price": "8.78"
+        },
+        {
+            "name": "GSt @6X",
+            "price": "5.81"
+        },
+        {
+            "name": "Q.01",
+            "price": "102.40"
+        },
+        {
+            "name": "S-GST @67:96,58",
+            "price": "0.00"
+        },
+        {
+            "name": "Z-GST @O%;o.00",
+            "price": "0.00"
+        }
+    ],
+    "total_amount": 102.4
+}

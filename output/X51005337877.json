@@ -1,0 +1,43 @@
+{
+    "store_name": "Kw",
+    "date": "20/03/2018",
+    "items": [
+        {
+            "name": "24.00 SR",
+            "price": "24.00"
+        },
+        {
+            "name": "UDON @",
+            "price": "24.00"
+        },
+        {
+            "name": "GREEN TEA",
+            "price": "1.00"
+        },
+        {
+            "name": "1.00 SR",
+            "price": "15.00"
+        },
+        {
+            "name": "GYOZA Spcs",
+            "price": "15.00"
+        },
+        {
+            "name": "A]",
+            "price": "46.00"
+        },
+        {
+            "name": ";ervice Chg 10.00%",
+            "price": "4.00"
+        },
+        {
+            "name": "GST",
+            "price": "3.00"
+        },
+        {
+            "name": "SR",
+            "price": "6.00"
+        }
+    ],
+    "total_amount": 46.0
+}

@@ -1,0 +1,19 @@
+{
+    "store_name": "U. TSTORE",
+    "date": "14-01-2018",
+    "items": [
+        {
+            "name": "CHANCE",
+            "price": "14.20"
+        },
+        {
+            "name": "9: GST 62",
+            "price": "33.82"
+        },
+        {
+            "name": "2: G8T 0K",
+            "price": "0.00"
+        }
+    ],
+    "total_amount": null
+}

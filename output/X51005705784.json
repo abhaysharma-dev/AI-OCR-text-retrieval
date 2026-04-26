@@ -1,0 +1,31 @@
+{
+    "store_name": "T",
+    "date": "15/09/2017",
+    "items": [
+        {
+            "name": "3 SEASONSHARD COVER BOOK 3007",
+            "price": "7.90"
+        },
+        {
+            "name": "TOT QTY:",
+            "price": "48.00"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "Amount",
+            "price": "45.28"
+        },
+        {
+            "name": "GST",
+            "price": "45.28"
+        }
+    ],
+    "total_amount": 48.0
+}

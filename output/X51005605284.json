@@ -1,0 +1,19 @@
+{
+    "store_name": "ADVANCO COMPANY",
+    "date": "23/03/2018",
+    "items": [
+        {
+            "name": "SR",
+            "price": "29.00"
+        },
+        {
+            "name": "Rounding Adj",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "78.30"
+        }
+    ],
+    "total_amount": 84.0
+}

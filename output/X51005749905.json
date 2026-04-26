@@ -1,0 +1,27 @@
+{
+    "store_name": "Bhd",
+    "date": "10/03/2018",
+    "items": [
+        {
+            "name": "RM",
+            "price": "1.00"
+        },
+        {
+            "name": "2kgs. Wood Lacquer Thinner",
+            "price": "1.00"
+        },
+        {
+            "name": "Ufixx Putty Filler .",
+            "price": "2.00"
+        },
+        {
+            "name": "Rounding Adjusment",
+            "price": "0.00"
+        },
+        {
+            "name": "POINT",
+            "price": "0.00"
+        }
+    ],
+    "total_amount": null
+}

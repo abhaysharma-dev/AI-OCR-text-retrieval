@@ -1,0 +1,23 @@
+{
+    "store_name": "RESTORAN WAN SHENG",
+    "date": "19-03-2018",
+    "items": [
+        {
+            "name": "Take Away",
+            "price": "0.20"
+        },
+        {
+            "name": "2 X",
+            "price": "0.20"
+        },
+        {
+            "name": "(Excluding GST) :",
+            "price": "5.66"
+        },
+        {
+            "name": "GST payable (69)",
+            "price": "0.34"
+        }
+    ],
+    "total_amount": null
+}

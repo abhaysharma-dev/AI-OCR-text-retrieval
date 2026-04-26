@@ -1,0 +1,31 @@
+{
+    "store_name": "HUGO TRADING SDN BHD",
+    "date": "13/01/2018",
+    "items": [
+        {
+            "name": "PKT",
+            "price": "10.38"
+        },
+        {
+            "name": "SR",
+            "price": "1.25"
+        },
+        {
+            "name": "PKT",
+            "price": "17.74"
+        },
+        {
+            "name": "SR",
+            "price": "1.06"
+        },
+        {
+            "name": "GsT 6%",
+            "price": "40.80"
+        },
+        {
+            "name": "Amount (RM)",
+            "price": "38.49"
+        }
+    ],
+    "total_amount": null
+}

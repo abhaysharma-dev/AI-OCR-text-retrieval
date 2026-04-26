@@ -1,0 +1,23 @@
+{
+    "store_name": "SiMPLIFIED TAX INVOICE",
+    "date": "29/01/2018",
+    "items": [
+        {
+            "name": "AhouNT",
+            "price": "3.00"
+        },
+        {
+            "name": "DISC",
+            "price": "0.00"
+        },
+        {
+            "name": "GST",
+            "price": "1.26"
+        },
+        {
+            "name": "0.Q0",
+            "price": "1.26"
+        }
+    ],
+    "total_amount": null
+}

@@ -1,0 +1,31 @@
+{
+    "store_name": "POPULAR",
+    "date": "23/12/17",
+    "items": [
+        {
+            "name": "T",
+            "price": "31.99"
+        },
+        {
+            "name": "MR \u20ac. TAPE REF WH624R -",
+            "price": "31.99"
+        },
+        {
+            "name": "FC GRIP BPO. 5",
+            "price": "4.20"
+        },
+        {
+            "name": "BLU   PK",
+            "price": "4.20"
+        },
+        {
+            "name": "3M GlueStick Tgm 4' s",
+            "price": "10.59"
+        },
+        {
+            "name": "FC EXM: ERS 4S 187016",
+            "price": "3.90"
+        }
+    ],
+    "total_amount": null
+}

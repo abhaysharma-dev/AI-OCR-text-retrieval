@@ -1,0 +1,27 @@
+{
+    "store_name": "Hoz o]",
+    "date": null,
+    "items": [
+        {
+            "name": "SR 100100000055-Fried Ncodle (S)",
+            "price": "52.00"
+        },
+        {
+            "name": "SR 100100000006- Pork",
+            "price": "52.70"
+        },
+        {
+            "name": "SR I0010000O015- Vegetable",
+            "price": "52.20"
+        },
+        {
+            "name": "Toxsi",
+            "price": "6.51"
+        },
+        {
+            "name": "GST @6%",
+            "price": "6.51"
+        }
+    ],
+    "total_amount": null
+}

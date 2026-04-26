@@ -1,0 +1,35 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "15/01/2018",
+    "items": [
+        {
+            "name": "4' HOES HANDLE",
+            "price": "11.13"
+        },
+        {
+            "name": "Tolal",
+            "price": "11.13"
+        },
+        {
+            "name": "Totai Sales (",
+            "price": "10.50"
+        },
+        {
+            "name": "Excluding GST)",
+            "price": "10.50"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "10.50"
+        }
+    ],
+    "total_amount": 10.5
+}

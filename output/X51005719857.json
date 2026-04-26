@@ -1,0 +1,23 @@
+{
+    "store_name": "Salon Du Chocolat",
+    "date": "19-02-2018",
+    "items": [
+        {
+            "name": "Chocolate Waff le-HaIf Moon",
+            "price": "17.90"
+        },
+        {
+            "name": "1 X",
+            "price": "17.90"
+        },
+        {
+            "name": "SR",
+            "price": "20.40"
+        },
+        {
+            "name": "Tota] (Excluding GST) :",
+            "price": "20.40"
+        }
+    ],
+    "total_amount": null
+}

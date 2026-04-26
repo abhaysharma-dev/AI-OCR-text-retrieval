@@ -1,0 +1,23 @@
+{
+    "store_name": "Jalan Ipoh Batu 5",
+    "date": "09/02/2018",
+    "items": [
+        {
+            "name": "10 00 NOS",
+            "price": "0.70"
+        },
+        {
+            "name": "X",
+            "price": "0.70"
+        },
+        {
+            "name": "SR",
+            "price": "7.00"
+        },
+        {
+            "name": "SR",
+            "price": "6.60"
+        }
+    ],
+    "total_amount": 7.0
+}

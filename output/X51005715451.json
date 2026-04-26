@@ -1,0 +1,19 @@
+{
+    "store_name": "POPULAR",
+    "date": "06/02/18",
+    "items": [
+        {
+            "name": "of",
+            "price": "14.64"
+        },
+        {
+            "name": "GST",
+            "price": "14.64"
+        },
+        {
+            "name": "RM",
+            "price": "14.85"
+        }
+    ],
+    "total_amount": null
+}

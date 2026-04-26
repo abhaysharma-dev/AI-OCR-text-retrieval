@@ -1,0 +1,23 @@
+{
+    "store_name": "Ieealbuk k",
+    "date": "10/31/21",
+    "items": [
+        {
+            "name": "CKEAT",
+            "price": "0.98"
+        },
+        {
+            "name": "VAI UF",
+            "price": "0.98"
+        },
+        {
+            "name": "GAIN",
+            "price": "2.84"
+        },
+        {
+            "name": "VEG 0Il",
+            "price": "4.94"
+        }
+    ],
+    "total_amount": null
+}

@@ -1,0 +1,99 @@
+{
+    "store_name": "Tax Invoice",
+    "date": "18/02/2018",
+    "items": [
+        {
+            "name": "PC",
+            "price": "0.00"
+        },
+        {
+            "name": "1.5\" RUBBER BAND",
+            "price": "3.60"
+        },
+        {
+            "name": "1 Z0OG",
+            "price": "3.60"
+        },
+        {
+            "name": "PP 3X5 04",
+            "price": "2.50"
+        },
+        {
+            "name": "1 200G",
+            "price": "2.50"
+        },
+        {
+            "name": "1 PC",
+            "price": "0.00"
+        },
+        {
+            "name": "PC",
+            "price": "8.60"
+        },
+        {
+            "name": "PSI-890 PENSONIC DRY IRON WITH SPRAY",
+            "price": "49.90"
+        },
+        {
+            "name": "1 PC",
+            "price": "49.90"
+        },
+        {
+            "name": "AP-17 APRON PLAIN CLOTH",
+            "price": "10.90"
+        },
+        {
+            "name": "20 PC",
+            "price": "10.90"
+        },
+        {
+            "name": "CC-100 1OOPC CITE CANDLE",
+            "price": "22.90"
+        },
+        {
+            "name": "1 PC",
+            "price": "22.90"
+        },
+        {
+            "name": "F1502 SCISSOR 08C (CH) (TLC)",
+            "price": "6.00"
+        },
+        {
+            "name": "6 PC",
+            "price": "6.00"
+        },
+        {
+            "name": "2KG HC KITCHEN SCALE",
+            "price": "19.90"
+        },
+        {
+            "name": "1 PC",
+            "price": "19.90"
+        },
+        {
+            "name": "19.90 SR",
+            "price": "346.51"
+        },
+        {
+            "name": "GST 69",
+            "price": "20.79"
+        },
+        {
+            "name": "Service Charge",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding Adjustment",
+            "price": "0.00"
+        },
+        {
+            "name": "Credlt Card",
+            "price": "367.30"
+        },
+        {
+            "name": "SR",
+            "price": "346.51"
+        }
+    ],
+    "total_amount": null
+}

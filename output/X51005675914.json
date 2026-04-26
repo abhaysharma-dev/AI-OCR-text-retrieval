@@ -1,0 +1,35 @@
+{
+    "store_name": "BEYOND BROTHERS HARDWARE",
+    "date": null,
+    "items": [
+        {
+            "name": "PENTENS FUTTY FILLER 500G",
+            "price": "2.00"
+        },
+        {
+            "name": "SCAFPER IBIASA 3",
+            "price": "67.94"
+        },
+        {
+            "name": "Tolal",
+            "price": "67.94"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.01"
+        },
+        {
+            "name": "Ter(RM",
+            "price": "64.00"
+        },
+        {
+            "name": "SR",
+            "price": "64.00"
+        },
+        {
+            "name": "Tolal",
+            "price": "64.00"
+        }
+    ],
+    "total_amount": null
+}

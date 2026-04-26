@@ -1,0 +1,27 @@
+{
+    "store_name": "1983 font'",
+    "date": "02/12/2017",
+    "items": [
+        {
+            "name": "SR",
+            "price": "7.42"
+        },
+        {
+            "name": "Tolal Sales ( Excluding GST)",
+            "price": "7.00"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "7.00"
+        }
+    ],
+    "total_amount": null
+}

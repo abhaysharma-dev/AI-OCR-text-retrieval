@@ -1,0 +1,43 @@
+{
+    "store_name": "AL  MENDIS-IHE MINES",
+    "date": "21-03-2018",
+    "items": [
+        {
+            "name": "1 X",
+            "price": "22.50"
+        },
+        {
+            "name": "TEA Pot BIG",
+            "price": "12.90"
+        },
+        {
+            "name": "1X",
+            "price": "12.90"
+        },
+        {
+            "name": "(Exclud",
+            "price": "41.30"
+        },
+        {
+            "name": "GST ) :",
+            "price": "41.30"
+        },
+        {
+            "name": "Serv",
+            "price": "4.13"
+        },
+        {
+            "name": "Charge ( 10X) :",
+            "price": "4.13"
+        },
+        {
+            "name": "GST Payable:",
+            "price": "2.73"
+        },
+        {
+            "name": "SR",
+            "price": "45.43"
+        }
+    ],
+    "total_amount": null
+}

@@ -1,0 +1,23 @@
+{
+    "store_name": "SEN LEE HEONG RESTAURANT",
+    "date": "12-01-2018",
+    "items": [
+        {
+            "name": "AMT :",
+            "price": "73.00"
+        },
+        {
+            "name": "RM",
+            "price": "73.00"
+        },
+        {
+            "name": "Amount:",
+            "price": "4.38"
+        },
+        {
+            "name": "RM",
+            "price": "4.38"
+        }
+    ],
+    "total_amount": null
+}

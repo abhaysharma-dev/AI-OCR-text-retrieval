@@ -1,0 +1,31 @@
+{
+    "store_name": "KING'S CONFECTIONERY S/B'273500-U (KSB)",
+    "date": "11/03/18",
+    "items": [
+        {
+            "name": "231027 Slice Cak",
+            "price": "8.70"
+        },
+        {
+            "name": "101110 Cheese Le",
+            "price": "2.45"
+        },
+        {
+            "name": "251030 Cheese Ta",
+            "price": "3.40"
+        },
+        {
+            "name": "171153 D/R BUTTE",
+            "price": "4.20"
+        },
+        {
+            "name": "Qty",
+            "price": "25.15"
+        },
+        {
+            "name": "Que",
+            "price": "25.15"
+        }
+    ],
+    "total_amount": null
+}

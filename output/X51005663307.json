@@ -1,0 +1,71 @@
+{
+    "store_name": "Tax Invoice",
+    "date": "09/02/2018",
+    "items": [
+        {
+            "name": "GELPEN REFILL PILOT 62 0.5 BLACK",
+            "price": "2.86"
+        },
+        {
+            "name": "5 PCS",
+            "price": "2.86"
+        },
+        {
+            "name": "GELPEN REFILL PILOT 62 0.5 BLUE",
+            "price": "2.86"
+        },
+        {
+            "name": "5 PCS",
+            "price": "2.86"
+        },
+        {
+            "name": "GELPEN REFILL PILOT 62 0.5 RED",
+            "price": "2.86"
+        },
+        {
+            "name": "2 PCS",
+            "price": "2.86"
+        },
+        {
+            "name": "BTL",
+            "price": "7.42"
+        },
+        {
+            "name": "PAPERMATE NP1O Zml:",
+            "price": "3.71"
+        },
+        {
+            "name": "2 PCS",
+            "price": "3.71"
+        },
+        {
+            "name": "PERMANENT MARKER SHARPIE FINE BLACK 30051",
+            "price": "2.33"
+        },
+        {
+            "name": "PCS",
+            "price": "2.33"
+        },
+        {
+            "name": "BALLPEN PILOT FRIXION 0.5 BLACK",
+            "price": "5.30"
+        },
+        {
+            "name": "1 PCS",
+            "price": "5.30"
+        },
+        {
+            "name": "5.30 SR",
+            "price": "56.80"
+        },
+        {
+            "name": "Rounding Adjustment",
+            "price": "0.01"
+        },
+        {
+            "name": "R @ 6 %",
+            "price": "53.58"
+        }
+    ],
+    "total_amount": null
+}

@@ -1,0 +1,39 @@
+{
+    "store_name": "TEQ HENG",
+    "date": "27/01/2018",
+    "items": [
+        {
+            "name": "(RM)",
+            "price": "3.96"
+        },
+        {
+            "name": "DQUBLE SIDE FOAM TAPE 18MM",
+            "price": "2.74"
+        },
+        {
+            "name": "CAMIS SQ BOOK 200",
+            "price": "5.47"
+        },
+        {
+            "name": "EAGLE F4 200 FOOLSCAP BOOK",
+            "price": "3.96"
+        },
+        {
+            "name": "BOOK",
+            "price": "25.80"
+        },
+        {
+            "name": "0.0Q",
+            "price": "27.35"
+        },
+        {
+            "name": "(RM)",
+            "price": "6.00"
+        },
+        {
+            "name": "SR",
+            "price": "6.00"
+        }
+    ],
+    "total_amount": 25.8
+}

@@ -1,0 +1,23 @@
+{
+    "store_name": "BREWERY",
+    "date": "30/03/2010",
+    "items": [
+        {
+            "name": "50.00 SR",
+            "price": "179.00"
+        },
+        {
+            "name": "Gs1 26*2",
+            "price": "10.74"
+        },
+        {
+            "name": "Net",
+            "price": "189.75"
+        },
+        {
+            "name": "SR:GST 058",
+            "price": "179.00"
+        }
+    ],
+    "total_amount": 189.75
+}

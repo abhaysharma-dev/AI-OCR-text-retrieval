@@ -1,0 +1,35 @@
+{
+    "store_name": "1000131-K",
+    "date": "13/10/2017",
+    "items": [
+        {
+            "name": "SR: CABLE LUG SOMM(M1O)",
+            "price": "15.12"
+        },
+        {
+            "name": "SR:",
+            "price": "75.00"
+        },
+        {
+            "name": "TOT QTY:",
+            "price": "94.62"
+        },
+        {
+            "name": "(Excluded",
+            "price": "89.26"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Amount",
+            "price": "89.26"
+        },
+        {
+            "name": "GST",
+            "price": "89.26"
+        }
+    ],
+    "total_amount": 94.6
+}

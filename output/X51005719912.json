@@ -1,0 +1,35 @@
+{
+    "store_name": "Guardia Heahez",
+    "date": "04/03/18",
+    "items": [
+        {
+            "name": "121095079 GDN MC H ENC ROM",
+            "price": "5.90"
+        },
+        {
+            "name": "121095081  GDN NC HIN M/DREAH",
+            "price": "5.90"
+        },
+        {
+            "name": "P3 KIP 6 HW 4012",
+            "price": "11.60"
+        },
+        {
+            "name": "CAGH",
+            "price": "12.00"
+        },
+        {
+            "name": "YOUR  SAVINGS FOR TODAV",
+            "price": "11.60"
+        },
+        {
+            "name": "6x",
+            "price": "11.32"
+        },
+        {
+            "name": "proluct in original Condition.",
+            "price": "16.14"
+        }
+    ],
+    "total_amount": 12.0
+}

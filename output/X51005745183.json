@@ -1,0 +1,23 @@
+{
+    "store_name": "BILLION SIX ENTERPRISE",
+    "date": "22/02/2018",
+    "items": [
+        {
+            "name": "SR; 8566405112206",
+            "price": "5.80"
+        },
+        {
+            "name": "Tabistuaa",
+            "price": "63.80"
+        },
+        {
+            "name": "GST @8.00%:",
+            "price": "63.80"
+        },
+        {
+            "name": "Master Card",
+            "price": "63.80"
+        }
+    ],
+    "total_amount": null
+}

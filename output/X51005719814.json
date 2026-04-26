@@ -1,0 +1,19 @@
+{
+    "store_name": "KIKU",
+    "date": null,
+    "items": [
+        {
+            "name": "(F i sh) Set",
+            "price": "9.90"
+        },
+        {
+            "name": "TS02 Kat",
+            "price": "9.90"
+        },
+        {
+            "name": "RM",
+            "price": "0.30"
+        }
+    ],
+    "total_amount": null
+}

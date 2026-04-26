@@ -1,0 +1,23 @@
+{
+    "store_name": "R",
+    "date": null,
+    "items": [
+        {
+            "name": "Ic 50",
+            "price": "17.49"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "0 0o",
+            "price": "312.70"
+        },
+        {
+            "name": "SR",
+            "price": "295.00"
+        }
+    ],
+    "total_amount": 295.0
+}

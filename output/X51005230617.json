@@ -1,0 +1,23 @@
+{
+    "store_name": "Jec",
+    "date": "18/01/2018",
+    "items": [
+        {
+            "name": "2 ChicMcMuffin",
+            "price": "11.00"
+        },
+        {
+            "name": "BM 2HotCakes",
+            "price": "10.00"
+        },
+        {
+            "name": "inc] GST)",
+            "price": "26.60"
+        },
+        {
+            "name": "Tota] Rounded",
+            "price": "26.60"
+        }
+    ],
+    "total_amount": null
+}

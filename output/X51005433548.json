@@ -1,0 +1,27 @@
+{
+    "store_name": "Ylzos '|",
+    "date": "03/03/18",
+    "items": [
+        {
+            "name": "iten Count",
+            "price": "93.80"
+        },
+        {
+            "name": "TL:RM",
+            "price": "33.80"
+        },
+        {
+            "name": "@x",
+            "price": "13.60"
+        },
+        {
+            "name": "ZFL",
+            "price": "20.20"
+        },
+        {
+            "name": "@O%",
+            "price": "20.20"
+        }
+    ],
+    "total_amount": 93.8
+}

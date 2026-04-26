@@ -1,0 +1,23 @@
+{
+    "store_name": "1000131-K",
+    "date": "27/09/2017",
+    "items": [
+        {
+            "name": "Amount",
+            "price": "78.00"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.01"
+        },
+        {
+            "name": "SR",
+            "price": "14.04"
+        }
+    ],
+    "total_amount": 234.0
+}

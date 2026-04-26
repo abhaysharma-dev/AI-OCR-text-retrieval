@@ -1,0 +1,31 @@
+{
+    "store_name": "Anz W2",
+    "date": null,
+    "items": [
+        {
+            "name": "SR I001ooodo060:",
+            "price": "55.50"
+        },
+        {
+            "name": "Vege",
+            "price": "55.50"
+        },
+        {
+            "name": "SR 1001 00000057-Frled Noodle (L}",
+            "price": "53.00"
+        },
+        {
+            "name": "S3,00",
+            "price": "53.00"
+        },
+        {
+            "name": "Amount",
+            "price": "58.50"
+        },
+        {
+            "name": "GST@6*",
+            "price": "8.02"
+        }
+    ],
+    "total_amount": null
+}

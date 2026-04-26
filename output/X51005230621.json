@@ -1,0 +1,31 @@
+{
+    "store_name": "SIN Lianhap So4 Bhd",
+    "date": "05/02/2018",
+    "items": [
+        {
+            "name": "SR",
+            "price": "2.00"
+        },
+        {
+            "name": "1.000 PC",
+            "price": "2.00"
+        },
+        {
+            "name": "SR",
+            "price": "5.30"
+        },
+        {
+            "name": "1.00PC",
+            "price": "5.30"
+        },
+        {
+            "name": "Tura' Saks Enbuiny &5T",
+            "price": "6.69"
+        },
+        {
+            "name": "lounding Acjuatment",
+            "price": "0.00"
+        }
+    ],
+    "total_amount": 7.3
+}

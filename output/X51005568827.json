@@ -1,0 +1,35 @@
+{
+    "store_name": "Banh Mi CafE",
+    "date": "29-10-2017",
+    "items": [
+        {
+            "name": "205 SUONG   NON  RAM CHUA",
+            "price": "9.90"
+        },
+        {
+            "name": "205 Sweet &Sir Pork Ribs",
+            "price": "9.9"
+        },
+        {
+            "name": "217 Tau Hu {ch  Thil Chi",
+            "price": "9.9"
+        },
+        {
+            "name": "Tau Fu",
+            "price": "1.50"
+        },
+        {
+            "name": "605   TRA DA",
+            "price": "1.50"
+        },
+        {
+            "name": "Serv .",
+            "price": "0.65"
+        },
+        {
+            "name": "Charge (38) :",
+            "price": "0.65"
+        }
+    ],
+    "total_amount": null
+}

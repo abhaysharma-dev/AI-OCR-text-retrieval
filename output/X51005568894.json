@@ -1,0 +1,43 @@
+{
+    "store_name": "TEL: 03-91334364",
+    "date": "17/01/2017",
+    "items": [
+        {
+            "name": "1.00 PKT",
+            "price": "14.60"
+        },
+        {
+            "name": "1,00 PKT",
+            "price": "14.60"
+        },
+        {
+            "name": "1.00 PKT",
+            "price": "6.00"
+        },
+        {
+            "name": "1.00 PKT",
+            "price": "8.00"
+        },
+        {
+            "name": "1,00 PCS",
+            "price": "0.80"
+        },
+        {
+            "name": "Item Qty:",
+            "price": "5.00"
+        },
+        {
+            "name": "GST 6%",
+            "price": "2.64"
+        },
+        {
+            "name": "Rounding Adj:",
+            "price": "0.01"
+        },
+        {
+            "name": "SR",
+            "price": "44.00"
+        }
+    ],
+    "total_amount": null
+}

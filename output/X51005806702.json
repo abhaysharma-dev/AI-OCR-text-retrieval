@@ -1,0 +1,23 @@
+{
+    "store_name": "Cash Sale",
+    "date": "03-18/1999",
+    "items": [
+        {
+            "name": "6R*60",
+            "price": "13.50"
+        },
+        {
+            "name": "1UNIT *",
+            "price": "13.50"
+        },
+        {
+            "name": "Rounding Adjustment ;",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "12.74"
+        }
+    ],
+    "total_amount": null
+}

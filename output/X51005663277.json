@@ -1,0 +1,27 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "02/12/2017",
+    "items": [
+        {
+            "name": "Amount",
+            "price": "29.68"
+        },
+        {
+            "name": "(W33) 1O5MM/4' CUTTING DISC",
+            "price": "29.68"
+        },
+        {
+            "name": "Tolal Sales (Excluding GST)",
+            "price": "28.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "28.00"
+        }
+    ],
+    "total_amount": 28.0
+}

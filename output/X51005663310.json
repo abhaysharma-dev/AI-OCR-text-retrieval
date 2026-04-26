@@ -1,0 +1,15 @@
+{
+    "store_name": "MALAYSIA",
+    "date": "09/02/2018",
+    "items": [
+        {
+            "name": "Totai Incl of GST",
+            "price": "8.40"
+        },
+        {
+            "name": "SR",
+            "price": "7.92"
+        }
+    ],
+    "total_amount": 8.0
+}

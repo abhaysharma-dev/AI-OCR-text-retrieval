@@ -1,0 +1,31 @@
+{
+    "store_name": "SWc",
+    "date": "28/03/2018",
+    "items": [
+        {
+            "name": "PD",
+            "price": "3.20"
+        },
+        {
+            "name": "Q020323 PKT",
+            "price": "1.00"
+        },
+        {
+            "name": "Ixi,00",
+            "price": "1.00"
+        },
+        {
+            "name": "Saving 3.80",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "S(6%)",
+            "price": "28.30"
+        }
+    ],
+    "total_amount": 30.0
+}

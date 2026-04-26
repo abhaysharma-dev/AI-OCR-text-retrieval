@@ -1,0 +1,27 @@
+{
+    "store_name": "52100 KEPONG,KL",
+    "date": null,
+    "items": [
+        {
+            "name": "GST",
+            "price": "0.51"
+        },
+        {
+            "name": "0.0Q",
+            "price": "34.00"
+        },
+        {
+            "name": "MASTER",
+            "price": "34.00"
+        },
+        {
+            "name": "GST",
+            "price": "8.50"
+        },
+        {
+            "name": "DZ",
+            "price": "25.80"
+        }
+    ],
+    "total_amount": 34.8
+}

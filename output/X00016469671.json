@@ -1,0 +1,19 @@
+{
+    "store_name": "tan",
+    "date": "02/01/2019",
+    "items": [
+        {
+            "name": "Tota",
+            "price": "170.00"
+        },
+        {
+            "name": "Amount:",
+            "price": "170.00"
+        },
+        {
+            "name": "VISA CARD",
+            "price": "170.00"
+        }
+    ],
+    "total_amount": null
+}

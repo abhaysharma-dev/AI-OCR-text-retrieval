@@ -1,0 +1,19 @@
+{
+    "store_name": "POPULAR",
+    "date": "11/02/18",
+    "items": [
+        {
+            "name": "PB  D/S Tape",
+            "price": "1.90"
+        },
+        {
+            "name": "12mM",
+            "price": "1.90"
+        },
+        {
+            "name": "HZc 44 400 '$",
+            "price": "9.90"
+        }
+    ],
+    "total_amount": null
+}

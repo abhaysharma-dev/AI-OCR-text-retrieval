@@ -1,0 +1,15 @@
+{
+    "store_name": {
+        "value": "Unknown Store",
+        "confidence": 0
+    },
+    "date": {
+        "value": null,
+        "confidence": 0
+    },
+    "items": [],
+    "total_amount": {
+        "value": null,
+        "confidence": 0
+    }
+}

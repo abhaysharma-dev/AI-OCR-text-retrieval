@@ -1,0 +1,27 @@
+{
+    "store_name": "POPULAR",
+    "date": "01/03/18",
+    "items": [
+        {
+            "name": "Amount",
+            "price": "9.89"
+        },
+        {
+            "name": "TOMBow C/Tape   CXSN",
+            "price": "9.89"
+        },
+        {
+            "name": "PU   EXPANDING  FILE-TS",
+            "price": "20.90"
+        },
+        {
+            "name": "Inc].",
+            "price": "49.39"
+        },
+        {
+            "name": "of GST",
+            "price": "49.39"
+        }
+    ],
+    "total_amount": null
+}

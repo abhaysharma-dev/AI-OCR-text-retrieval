@@ -1,0 +1,31 @@
+{
+    "store_name": "HOME MASTER HARDYARE &",
+    "date": "22/12/2017",
+    "items": [
+        {
+            "name": "Code",
+            "price": "1.00"
+        },
+        {
+            "name": "24mimx7y M.ONE TAPE",
+            "price": "1.00"
+        },
+        {
+            "name": "Subtota",
+            "price": "15.90"
+        },
+        {
+            "name": "t5.00",
+            "price": "15.90"
+        },
+        {
+            "name": "Totz' Ingi, 0f GST",
+            "price": "15.90"
+        },
+        {
+            "name": "SR",
+            "price": "15.00"
+        }
+    ],
+    "total_amount": null
+}

@@ -1,0 +1,35 @@
+{
+    "store_name": "HAPPY SNACKS ENTERPRISE",
+    "date": "20/03/2018",
+    "items": [
+        {
+            "name": "SR",
+            "price": "12.51"
+        },
+        {
+            "name": "ASSORTED",
+            "price": "26.82"
+        },
+        {
+            "name": "Totai",
+            "price": "26.82"
+        },
+        {
+            "name": "Amount To Be Paid",
+            "price": "26.80"
+        },
+        {
+            "name": "GST",
+            "price": "6.00"
+        },
+        {
+            "name": "SR",
+            "price": "6.00"
+        },
+        {
+            "name": "GST",
+            "price": "1.52"
+        }
+    ],
+    "total_amount": null
+}

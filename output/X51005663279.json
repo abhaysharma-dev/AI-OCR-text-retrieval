@@ -1,0 +1,23 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "28/12/2017",
+    "items": [
+        {
+            "name": "PASIR HALUS 1 LOAD (SMALL)",
+            "price": "148.40"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "140.00"
+        }
+    ],
+    "total_amount": 148.4
+}

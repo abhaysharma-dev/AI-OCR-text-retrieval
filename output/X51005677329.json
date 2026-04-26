@@ -1,0 +1,23 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "12/02/2018",
+    "items": [
+        {
+            "name": "11OMM X 5 8M UNDERGROUND PIPE",
+            "price": "270.30"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "255.00"
+        }
+    ],
+    "total_amount": 270.3
+}

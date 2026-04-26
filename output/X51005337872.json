@@ -1,0 +1,47 @@
+{
+    "store_name": "Rs k -",
+    "date": "06/03/2018",
+    "items": [
+        {
+            "name": "(T0?) BRAISED PORK",
+            "price": "7.00"
+        },
+        {
+            "name": "RICF IMITH PEANUT",
+            "price": "1.0"
+        },
+        {
+            "name": "~T PORK",
+            "price": "1.0"
+        },
+        {
+            "name": "(V0Z) SOUR & SPICY",
+            "price": "12.00"
+        },
+        {
+            "name": "(B03",
+            "price": "2.0"
+        },
+        {
+            "name": "JASMINE GREEN",
+            "price": "2.0"
+        },
+        {
+            "name": "TEA(HOT)",
+            "price": "1.0"
+        },
+        {
+            "name": "(ROs) ROAST PORK",
+            "price": "1.0"
+        },
+        {
+            "name": "ROAST CHICKEN RICE",
+            "price": "51.42"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        }
+    ],
+    "total_amount": 51.42
+}

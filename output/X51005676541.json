@@ -1,0 +1,31 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "03/01/2018",
+    "items": [
+        {
+            "name": "4\" ROLLER SET",
+            "price": "40.28"
+        },
+        {
+            "name": "PLASTIC TRAP (L)",
+            "price": "94.87"
+        },
+        {
+            "name": "Tolai Qty:",
+            "price": "94.87"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "89.50"
+        }
+    ],
+    "total_amount": 89.5
+}

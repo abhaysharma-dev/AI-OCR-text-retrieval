@@ -1,0 +1,31 @@
+{
+    "store_name": "dex",
+    "date": "18/01/2018",
+    "items": [
+        {
+            "name": "2 M SpicyDeluxe",
+            "price": "25.40"
+        },
+        {
+            "name": "2 M Fries",
+            "price": "12.50"
+        },
+        {
+            "name": "M Gri IChicBgr",
+            "price": "12.50"
+        },
+        {
+            "name": "Small",
+            "price": "1.00"
+        },
+        {
+            "name": "Cone",
+            "price": "1.00"
+        },
+        {
+            "name": "Tota/ Rounded",
+            "price": "38.90"
+        }
+    ],
+    "total_amount": null
+}

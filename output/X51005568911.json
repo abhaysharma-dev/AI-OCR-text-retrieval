@@ -1,0 +1,15 @@
+{
+    "store_name": "MR",
+    "date": "08-03-17",
+    "items": [
+        {
+            "name": "1 X",
+            "price": "2.10"
+        },
+        {
+            "name": "RM",
+            "price": "2.20"
+        }
+    ],
+    "total_amount": null
+}

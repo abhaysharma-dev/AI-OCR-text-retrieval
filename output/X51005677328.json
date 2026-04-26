@@ -1,0 +1,23 @@
+{
+    "store_name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "12/02/2018",
+    "items": [
+        {
+            "name": "RMS",
+            "price": "5.30"
+        },
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Iax (RM)",
+            "price": "5.00"
+        },
+        {
+            "name": "SR",
+            "price": "5.00"
+        }
+    ],
+    "total_amount": 5.3
+}

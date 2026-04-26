@@ -1,0 +1,15 @@
+{
+    "store_name": "FY",
+    "date": "07/12/2017",
+    "items": [
+        {
+            "name": "(Rm)",
+            "price": "10.00"
+        },
+        {
+            "name": "SR",
+            "price": "9.43"
+        }
+    ],
+    "total_amount": null
+}

@@ -1,0 +1,15 @@
+{
+    "store_name": "Lot PT.",
+    "date": "31-03-18",
+    "items": [
+        {
+            "name": "Rm2.50",
+            "price": "3.99"
+        },
+        {
+            "name": "Rounding RH",
+            "price": "4.00"
+        }
+    ],
+    "total_amount": null
+}

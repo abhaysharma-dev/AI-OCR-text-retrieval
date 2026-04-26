@@ -1,0 +1,31 @@
+{
+    "store_name": "FUYI MINI MARKET",
+    "date": "43-45-47",
+    "items": [
+        {
+            "name": "013 SUMMER CUP 48X230ML",
+            "price": "8.49"
+        },
+        {
+            "name": "KOTAI 8,49",
+            "price": "8.49"
+        },
+        {
+            "name": "SR",
+            "price": "0.51"
+        },
+        {
+            "name": "GST 6% +",
+            "price": "0.51"
+        },
+        {
+            "name": "Cuetomer's Pavment",
+            "price": "50.00"
+        },
+        {
+            "name": "SR",
+            "price": "0.51"
+        }
+    ],
+    "total_amount": null
+}

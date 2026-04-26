@@ -1,0 +1,19 @@
+{
+    "store_name": "R",
+    "date": null,
+    "items": [
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rounding",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "128.00"
+        }
+    ],
+    "total_amount": 128.0
+}

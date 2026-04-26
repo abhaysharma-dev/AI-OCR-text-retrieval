@@ -1,0 +1,19 @@
+{
+    "store_name": "LICHTROOM CALLERY",
+    "date": "20/11/2017",
+    "items": [
+        {
+            "name": "RM",
+            "price": "45.29"
+        },
+        {
+            "name": "Item Count:",
+            "price": "4.0"
+        },
+        {
+            "name": "Qty Count",
+            "price": "4.0"
+        }
+    ],
+    "total_amount": null
+}

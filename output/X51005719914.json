@@ -1,0 +1,31 @@
+{
+    "store_name": "MR",
+    "date": "16-03-18",
+    "items": [
+        {
+            "name": "1 X",
+            "price": "2.70"
+        },
+        {
+            "name": "1 X",
+            "price": "2.50"
+        },
+        {
+            "name": "1 X",
+            "price": "2.50"
+        },
+        {
+            "name": "1 X",
+            "price": "7.50"
+        },
+        {
+            "name": "2 X",
+            "price": "4.90"
+        },
+        {
+            "name": "GSTS@6%",
+            "price": "3.02"
+        }
+    ],
+    "total_amount": null
+}

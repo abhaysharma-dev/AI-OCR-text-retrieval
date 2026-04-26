@@ -1,0 +1,27 @@
+{
+    "store_name": "RESTAURANT",
+    "date": null,
+    "items": [
+        {
+            "name": "Sales",
+            "price": "110.00"
+        },
+        {
+            "name": "RM",
+            "price": "110.00"
+        },
+        {
+            "name": "ng Adjustmert",
+            "price": "0.00"
+        },
+        {
+            "name": "RM",
+            "price": "0.00"
+        },
+        {
+            "name": "RM",
+            "price": "110.00"
+        }
+    ],
+    "total_amount": null
+}

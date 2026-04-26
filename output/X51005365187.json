@@ -1,0 +1,27 @@
+{
+    "store_name": "F&P PHARMACY",
+    "date": "02/03/2018",
+    "items": [
+        {
+            "name": "Discount",
+            "price": "0.00"
+        },
+        {
+            "name": "Rouling",
+            "price": "0.00"
+        },
+        {
+            "name": "Talal Sales (Irclusive of GST)",
+            "price": "31.90"
+        },
+        {
+            "name": "s0.00",
+            "price": "18.10"
+        },
+        {
+            "name": "SR",
+            "price": "1.22"
+        }
+    ],
+    "total_amount": 30.68
+}

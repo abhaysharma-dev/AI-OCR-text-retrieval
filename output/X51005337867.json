@@ -1,0 +1,31 @@
+{
+    "store_name": "st Jzr -",
+    "date": null,
+    "items": [
+        {
+            "name": "S",
+            "price": "25.94"
+        },
+        {
+            "name": "10% Srv Chg:",
+            "price": "2.59"
+        },
+        {
+            "name": "GST   @6X",
+            "price": "1.71"
+        },
+        {
+            "name": "Rounding:",
+            "price": "0.01"
+        },
+        {
+            "name": "S-GST@6X =",
+            "price": "1.71"
+        },
+        {
+            "name": "Z-GST @0X =",
+            "price": "0.00"
+        }
+    ],
+    "total_amount": 30.24
+}

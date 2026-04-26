@@ -1,0 +1,27 @@
+{
+    "store_name": "CARREFOUR RESTAURANT",
+    "date": null,
+    "items": [
+        {
+            "name": "FotanaY",
+            "price": "10.00"
+        },
+        {
+            "name": "DiSC",
+            "price": "0.00"
+        },
+        {
+            "name": "8ERVICE CHARCE",
+            "price": "0.00"
+        },
+        {
+            "name": "GOV TA",
+            "price": "0.78"
+        },
+        {
+            "name": "ROUNDING",
+            "price": "0.02"
+        }
+    ],
+    "total_amount": 3.8
+}

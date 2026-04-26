@@ -1,0 +1,23 @@
+{
+    "store_name": "YONG CEN ENTERPRISE",
+    "date": "02/03/2018",
+    "items": [
+        {
+            "name": "DISC",
+            "price": "0.00"
+        },
+        {
+            "name": "GST",
+            "price": "3.36"
+        },
+        {
+            "name": "62.Hx",
+            "price": "0.00"
+        },
+        {
+            "name": "ROUNDING",
+            "price": "0.00"
+        }
+    ],
+    "total_amount": 63.35
+}

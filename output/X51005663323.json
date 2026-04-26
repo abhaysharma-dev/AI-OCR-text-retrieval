@@ -1,0 +1,23 @@
+{
+    "store_name": "KOH",
+    "date": "04/12/2017",
+    "items": [
+        {
+            "name": "DISC",
+            "price": "0.00"
+        },
+        {
+            "name": "GST",
+            "price": "48.00"
+        },
+        {
+            "name": "ROUNDING",
+            "price": "0.00"
+        },
+        {
+            "name": "SR",
+            "price": "800.00"
+        }
+    ],
+    "total_amount": null
+}

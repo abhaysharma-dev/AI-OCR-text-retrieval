@@ -1,0 +1,51 @@
+{
+    "store_name": "THAI DELICIOUS RESTAURANT",
+    "date": "02/02/2017",
+    "items": [
+        {
+            "name": "Amount",
+            "price": "20.00"
+        },
+        {
+            "name": "06s BRAISED",
+            "price": "20.00"
+        },
+        {
+            "name": "M6n",
+            "price": "28.00"
+        },
+        {
+            "name": "32 PHRANAKON'",
+            "price": "28.00"
+        },
+        {
+            "name": "SQUID ,ln |i,in",
+            "price": "13.00"
+        },
+        {
+            "name": "51 GARLIC FRIED",
+            "price": "13.00"
+        },
+        {
+            "name": "130 PLAINRICE",
+            "price": "7.20"
+        },
+        {
+            "name": "113 C OCONUT",
+            "price": "6.50"
+        },
+        {
+            "name": "TEA",
+            "price": "92.80"
+        },
+        {
+            "name": "AVERAGE",
+            "price": "23.20"
+        },
+        {
+            "name": "PAX(S)",
+            "price": "23.20"
+        }
+    ],
+    "total_amount": 92.8
+}

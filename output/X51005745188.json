@@ -1,0 +1,15 @@
+{
+    "store_name": "SLF",
+    "date": "02/02/2018",
+    "items": [
+        {
+            "name": "AMUnt",
+            "price": "11.32"
+        },
+        {
+            "name": "SR",
+            "price": "45.28"
+        }
+    ],
+    "total_amount": null
+}

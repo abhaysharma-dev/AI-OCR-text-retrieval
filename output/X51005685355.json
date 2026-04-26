@@ -1,0 +1,15 @@
+{
+    "store_name": "RESTORAN IBRAHIM MAJU SB",
+    "date": "19/03/2018",
+    "items": [
+        {
+            "name": "AmoUNT",
+            "price": "2.30"
+        },
+        {
+            "name": "MAKANAN",
+            "price": "2.30"
+        }
+    ],
+    "total_amount": null
+}

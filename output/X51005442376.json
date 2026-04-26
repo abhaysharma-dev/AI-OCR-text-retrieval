@@ -1,0 +1,19 @@
+{
+    "store_name": "no",
+    "date": null,
+    "items": [
+        {
+            "name": "Meat + 3 Vege",
+            "price": "57.10"
+        },
+        {
+            "name": "S7,10",
+            "price": "57.10"
+        },
+        {
+            "name": "GSt 426r",
+            "price": "7.17"
+        }
+    ],
+    "total_amount": null
+}
