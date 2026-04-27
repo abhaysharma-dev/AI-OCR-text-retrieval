@@ -2,7 +2,6 @@ AI OCR Receipt Information Extraction System
 
 Code Repository : https://github.com/abhaysharma-dev/AI-OCR-text-retrieval
 
----
 
 1. Approach
 
@@ -36,10 +35,10 @@ Rule-based heuristics and regular expressions were used to extract:
 
 Since OCR outputs were inconsistent across receipts, multiple heuristics were implemented:
 
-Store names extracted from top receipt text
-Date extracted using regex patterns
-Item prices extracted by identifying decimal values
-Total amount extracted using keywords such as TOTAL, SUBTOTAL, etc.
+- Store names extracted from top receipt text
+- Date extracted using regex patterns
+- Item prices extracted by identifying decimal values
+- Total amount extracted using keywords such as TOTAL, SUBTOTAL, etc.
 
 Step 5: JSON Structuring
 
@@ -63,7 +62,6 @@ Example:
   "total_amount": 18.75
 }
 ```
----
 
 2. Expense Summary Output
 
@@ -75,17 +73,15 @@ Total Transactions Processed: 117
 
 The summary was calculated by aggregating all valid total_amount values from the generated receipt JSON outputs.
 
----
 
 3. Tools Used
+
 Python
 EasyOCR
 OpenCV
 Regular Expressions (Regex)
 JSON
 Pandas
-
----
 
 4. Challenges Faced
 
@@ -123,9 +119,14 @@ Receipts followed different structures which made rule-based extraction challeng
 
 ---
 
+
 5. Improvements / Future Work
 - Implement confidence scoring using OCR confidence values
 - Fine-tune OCR models for receipt-specific extraction
 - Use LayoutLM / Named Entity Recognition models for better structured extraction
 - Improve handling of highly noisy receipts
 - Build scalable batch processing pipeline for large datasets
+
+
+By
+Abhay Sharma
